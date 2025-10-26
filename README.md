@@ -4,9 +4,9 @@ Fake news has grown to be a significant issue in the present digital era, affect
 
 We have also published a research paper for this project.
 
-Link for the research paper: https://ieeexplore.ieee.org/document/10842732 
+***Link for the research paper:*** https://ieeexplore.ieee.org/document/10842732 
 
 
-We also continued this project as our final year BTech project, in which we implemented dynamic model updating, where we updated our model on weekly basis with new data. 
+We also continued this project as our **_Final year BTech project_**, in which we implemented dynamic model updating, where we updated our model on weekly basis with new data.
 
-Github link for final year project: https://github.com/maitreyeejadhav/Capstone-Project 
+***Github link for final year project:*** https://github.com/maitreyeejadhav/Capstone-Project 
